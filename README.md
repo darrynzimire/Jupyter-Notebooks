@@ -1,2 +1,2 @@
 # Jupyter-Notebooks
-A collection of Jupyter notebooks and analysis worklflows for Projects I worked on 
+A collection of Jupyter notebooks and analysis workflows for Projects I worked on 
